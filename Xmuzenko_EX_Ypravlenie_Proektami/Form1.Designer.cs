@@ -35,7 +35,7 @@ namespace Xmuzenko_EX_Ypravlenie_Proektami
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(480, 436);
+            this.ClientSize = new System.Drawing.Size(501, 436);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
