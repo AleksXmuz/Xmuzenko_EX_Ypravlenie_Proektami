@@ -144,7 +144,7 @@ namespace Xmuzenko_EX_Ypravlenie_Proektami
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.textBox1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Encryptor";
             this.ResumeLayout(false);
             this.PerformLayout();
 
